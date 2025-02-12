@@ -1,0 +1,9 @@
+Collection --> Preprocessing --> AI --> output --> proccess and display
+
+
+LLAMA
+DEEPSEEK
+
+CHATGPT
+DALL-E
+SORA

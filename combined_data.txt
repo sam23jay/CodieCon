@@ -1,0 +1,363 @@
+Google Trends:
+[
+    {
+        "rank": 1,
+        "term": "Southampton vs Liverpool"
+    },
+    {
+        "rank": 2,
+        "term": "Monaco vs PSG"
+    },
+    {
+        "rank": 3,
+        "term": "Roma vs Sampdoria"
+    },
+    {
+        "rank": 4,
+        "term": "Newcastle vs Brentford"
+    },
+    {
+        "rank": 5,
+        "term": "Atalanta"
+    },
+    {
+        "rank": 6,
+        "term": "Villarreal"
+    },
+    {
+        "rank": 7,
+        "term": "Diskon tarif listrik 50 persen"
+    },
+    {
+        "rank": 8,
+        "term": "Jokowi Gibran Dipecat PDIP"
+    },
+    {
+        "rank": 9,
+        "term": "Cara cek NIK KTP penerima bansos PKH"
+    },
+    {
+        "rank": 10,
+        "term": "Mu vs Tottenham"
+    },
+    {
+        "rank": 11,
+        "term": "Park Juhyun"
+    },
+    {
+        "rank": 12,
+        "term": "Marcus Rashford"
+    },
+    {
+        "rank": 13,
+        "term": "The Fed"
+    },
+    {
+        "rank": 14,
+        "term": "Madrid vs Pachuca"
+    },
+    {
+        "rank": 15,
+        "term": "Barito Putera vs Persib Bandung"
+    },
+    {
+        "rank": 16,
+        "term": "Filipina vs Vietnam"
+    },
+    {
+        "rank": 17,
+        "term": "Myanmar vs Laos"
+    },
+    {
+        "rank": 18,
+        "term": "Arsenal vs Crystal Palace"
+    },
+    {
+        "rank": 19,
+        "term": "Juventus vs Cagliari"
+    },
+    {
+        "rank": 20,
+        "term": "Klasemen AFF 2024"
+    }
+]
+
+YouTube Data:
+[
+    {
+        "title": "NBA",
+        "description": "The NBA is the premier professional basketball league in the United States and Canada. The league is truly global, with games ..."
+    },
+    {
+        "title": "Milwaukee Bucks vs Oklahoma City Thunder Full Game Highlights | Dec 17 | 2025 NBA Emirates Cup Final",
+        "description": "50% OFF NBA JERSEYS◇ https://jerseyshq.com/?coupon=hhball Follow us on Telegram: https://t.me/hooperhighlights00 Follow ..."
+    },
+    {
+        "title": "Golden State Warriors vs Dallas Mavericks Full Game Highlights | Dec 15 | 2025 NBA Season",
+        "description": "50% OFF NBA JERSEYS◇ https://jerseyshq.com/?coupon=hhball Follow us on Telegram: https://t.me/hooperhighlights00 Follow ..."
+    },
+    {
+        "title": "Los Angeles Lakers vs Memphis Grizzlies Full Game Highlights | Dec 15 | 2025 NBA Season",
+        "description": "50% OFF NBA JERSEYS◇ https://jerseyshq.com/?coupon=hhball Follow us on Telegram: https://t.me/hooperhighlights00 Follow ..."
+    },
+    {
+        "title": "🚨 Stephen A. EVISCERATES players for NBA All-Star Game format change + NBA Cup Reaction | First Take",
+        "description": "On First Take, Stephen A. Smith, Chris \"Mad Dog\" Russo and Molly Qerim give props to the Milwaukee Bucks for winning the 2024 ..."
+    },
+    {
+        "title": "Damian Lillard&#39;s TOP PLAYS from the 2024 #EmiratesNBACup 🏆",
+        "description": "Check out some of Damian Lillard's best plays from the 2024 NBA Cup games! Download now ..."
+    },
+    {
+        "title": "WARRIORS vs LAKERS FULL GAME HIGHLIGHTS DECEMBER 19, 2024 NBA FULL GAME HIGHLIGHTS TODAY 2K25",
+        "description": "WARRIORS vs LAKERS FULL GAME HIGHLIGHTS DECEMBER 19, 2024 NBA FULL GAME HIGHLIGHTS TODAY 2K25 #NBA ..."
+    },
+    {
+        "title": "Dennis Schroder on teaming up with Steph Curry &amp; his son roasts Nets after trade 😂",
+        "description": "nba #nbahighlights #nbahighlightstoday Dennis Schroder on teaming up with Stephen Curry & his son roasts Brooklyn Nets after ..."
+    },
+    {
+        "title": "Conhecemos o CT mais SURREAL da NBA e invadimos a NASA! #S03E03",
+        "description": "O próximo ponto em Houston vai ser no moderníssimo Centro de Treinamento (CT) dos Rockets, da NBA. Citando \"foguetes\", os ..."
+    },
+    {
+        "title": "The Top Plays of the 2024 #EmiratesNBACup 🏆",
+        "description": "Check out the best dunks, clutch shots and more from the 2024 Emirates NBA Cup! Never miss a moment with the latest news, ..."
+    },
+    {
+        "title": "When UNEXPECTED Events Take Place At The NBA Cup Final...",
+        "description": "Sign up for Sorare using my link: https://sorare.pxf.io/c/3468083/2176099/12209?subId1=heatcheck."
+    },
+    {
+        "title": "NBA is ‘repetitive and boring’, Who should the Bears hire as their next head coach? | THE HERD",
+        "description": "The Milwaukee Bucks won the NBA Cup Finals, beating the Oklahoma City Thunder 97-81. However, the Thunder shot 5-32 from ..."
+    },
+    {
+        "title": "NBA Players Getting Cooked for 20 Minutes Straight ! 😂🔥",
+        "description": "Golden Hoops Merch: https://golden-hoops-store.myshopify.com/ NBA video clips used in this video are licensed through ..."
+    },
+    {
+        "title": "Denver Nuggets vs Sacramento Kings Full Game Highlights | Dec 16 | 2025 NBA Season",
+        "description": "50% OFF NBA JERSEYS◇ https://jerseyshq.com/?coupon=hhball Follow us on Telegram: https://t.me/hooperhighlights00 Follow ..."
+    },
+    {
+        "title": "GIANNIS tem atuação HISTÓRICA na final, e BUCKS conquistam a NBA Cup! - Rodada NBA 17/12",
+        "description": "Giannis Antetokounmpo foi simplesmente \"o cara\" na final da NBA Cup, que aconteceu na noite de ontem e terminou com o título ..."
+    },
+    {
+        "title": "Highlights: Southampton 1-2 Liverpool | Nunez &amp; Elliott Secure Carabao Cup Semi-Finals",
+        "description": "Watch highlights from Liverpool's 2-1 victory over Southampton in the Carabao Cup quarter-finals, with goals from Darwin Nunez ..."
+    },
+    {
+        "title": "HIGHLIGHTS: Real Madrid v Pachuca | FIFA Intercontinental Cup 2024™ Final",
+        "description": "Watch highlights from Real Madrid v Pachuca in the FIFA Intercontinental Cup 2024™ Final, as part of the FIFA Intercontinental ..."
+    },
+    {
+        "title": "Rip 😭 💔#football #rip #tragic",
+        "description": "RIP #football #rip #tragic."
+    },
+    {
+        "title": "NFL Week 15 Mic&#39;d Up! &quot;Just playing some backyard football&quot; | Game Day All Access",
+        "description": "Watch live local and primetime games, NFL RedZone, and NFL Network on Plus.NFL.com Check out our other channels: NFL ..."
+    },
+    {
+        "title": "Best Football Transitions👯‍♂️ Ronaldo vs Neymar vs Yamal vs Richarlison",
+        "description": "Best Football Transitions  ‍♂️ Ronaldo vs Neymar vs Yamal vs Richarlison UNEXPECTED EDITS Legend Transitions ..."
+    },
+    {
+        "title": "1 Winner from Every World Cup",
+        "description": "Check out the incredible Birds Eye Chicken Shop range including this Ultimate Fillet Burger using my link ..."
+    },
+    {
+        "title": "HIGHLIGHTS | Arsenal vs Crystal Palace (3-2) | Gabriel Jesus hat-trick puts us in semi-finals!",
+        "description": "Hat-trick hero Gabriel Jesus was the star of the show, with the help of the instant impact of substitutes Martin Odegaard and ..."
+    },
+    {
+        "title": "ROMA-SAMPDORIA 4-1 | HIGHLIGHTS | Dovbyk at the double | Coppa Italia Frecciarossa 2024/25",
+        "description": "The Giallorossi beat Sampdoria with a convincing performance and 4 goals scored at the Olimpico by Dovbyk (double), Baldanzi ..."
+    },
+    {
+        "title": "Best World Cup Goals Recreated",
+        "description": "Advertising - @VisitQatar In this video I will be recreating my Top 5 goals that have been scored in the Lusail stadium in Qatar ..."
+    },
+    {
+        "title": "Football Made Simple",
+        "description": "No clickbait, just football videos for football lovers. Newsletter : https://footballmadesimple.substack.com/"
+    },
+    {
+        "title": "Perfect Timing in Football 💀",
+        "description": "Perfect Timing in Football #footballshorts #soccershorts."
+    },
+    {
+        "title": "DJ VS KYRIE IN MADDEN 2025 FOOTBALL GAME!",
+        "description": "DJ VS KYRIE IN MADDEN 2025 FOOTBALL GAME | The Prince Family Clubhouse Subscribe To Our Main Channel: ..."
+    },
+    {
+        "title": "MONACO 🆚 PARIS : pluie de buts à Louis-II (résumé) 📺⚽️",
+        "description": "Le résumé de la victoire de nos Parisiens sur la pelouse de l'AS Monaco (2-4). SUBSCRIBE ➡️ https://www.youtube.com/psg ..."
+    },
+    {
+        "title": "REAL MADRID vs PACHUCA LIVE FINAL 2024 Intercontinental Cup",
+        "description": "Real Madrid vs Pachuca Live Final 2024 Intercontinental Cup - Full Game, REAL MADRID vs PACHUCA LIVE Final 2024 ..."
+    },
+    {
+        "title": "Previewing EVERY College Football Playoff first-round game",
+        "description": "Chip Patterson, Richard Johnson, Tom Fornelli, and Shehan Jeyarajah join CBS Sports HQ to breakdown the First Round games ..."
+    },
+    {
+        "title": "Apple",
+        "description": "Welcome to the official Apple YouTube channel. Here you'll find news about product launches, tutorials, and other great content."
+    },
+    {
+        "title": "Introducing iPhone 16 | Apple",
+        "description": "Meet iPhone 16. Built for Apple Intelligence. Turbocharged with the new A18 chip. Featuring all-new Camera Control. New 48MP ..."
+    },
+    {
+        "title": "Introducing iPhone 16 Pro | Apple",
+        "description": "This is iPhone 16 Pro. Built for Apple Intelligence. A new powerful, private, personal, deeply integrated intelligence system to help ..."
+    },
+    {
+        "title": "Introducing the all-new Mac mini | Apple",
+        "description": "The all-new Mac mini is five by five inches of pure power and purpose. With a wide array of ports, now on the front and back."
+    },
+    {
+        "title": "MacBook Pro Announcement - October 30",
+        "description": "Watch the special Apple announcement to learn about the new MacBook Pro, now more powerful than ever with Apple ..."
+    },
+    {
+        "title": "Apple Reacts to Android’s “Vision Pro”",
+        "description": "Google just announced Android XR and Apple is unimpressed and… uninterested. ARTICLE: ..."
+    },
+    {
+        "title": "The new MacBook Pro | Built for Apple Intelligence | Apple",
+        "description": "MacBook Pro features the most advanced lineup of chips ever built for a pro laptop. Phenomenal single- and multithreaded CPU ..."
+    },
+    {
+        "title": "Apple vs. Meta: Designing the Perfect AR Glasses | WSJ",
+        "description": "Meta's current Ray-Bans and its Orion prototype offer a glimpse of the sleek, high-tech glasses we've dreamed of, while Apple's ..."
+    },
+    {
+        "title": "Did Apple intelligence FAIL? (iOS 18.2 Update)",
+        "description": "iOS 18.2 - Follow Up! iDeviceHelp Social Media Instagram: https://goo.gl/X3YTGJ Twitter: http://twitter.com/idevicehelpus ..."
+    },
+    {
+        "title": "Apple Intelligence | Change your tone | MacBook Pro",
+        "description": "Apple Intelligence on Mac is here, with Writing Tools to help your words sound more friendly, professional, or more concise."
+    },
+    {
+        "title": "A Guided Tour of iPhone 16 &amp; iPhone 16 Pro | Apple",
+        "description": "Find a new iPhone 16 that's right for you alongside comedian Sheng Wang, and see some of the most exciting new features, like ..."
+    },
+    {
+        "title": "Apple Intelligence iOS 18.2 - All New Features (Big Update)",
+        "description": "Apple Intelligence iOS 18.2 - All New Features (Big Update) - With iOS 18.2 Release, Apple added the final Apple Intelligence ..."
+    },
+    {
+        "title": "Is Apple&#39;s Nanotexture Display Worth It?",
+        "description": "Our Website: https://justjosh.tech/ 🛍️ MacBook Deals: https://justjosh.tech/recommendations/Best-MacBook-Deals ..."
+    },
+    {
+        "title": "I used Apple Watch Ultra 2 Black as my ONLY device for 7 Days",
+        "description": "Bluetti Power Station Backpack | Bluetti site: https://bit.ly/3VG3LgK | 5%-off Discount Code: ZMBHF2 | AMZ: ..."
+    },
+    {
+        "title": "Apple Silicon Has Officially Won Me Over",
+        "description": "Time for an upgrade. Why I bought a new M4 Pro MacBook Pro! Make it with Squarespace - Save 10% ..."
+    }
+]
+
+Mock Twitter Data:
+[
+    {
+        "name": "#EldenRing",
+        "tweet_volume": 350120
+    },
+    {
+        "name": "Cyberpunk 2077",
+        "tweet_volume": 318450
+    },
+    {
+        "name": "Lebron James",
+        "tweet_volume": 275640
+    },
+    {
+        "name": "God of War Ragnarok",
+        "tweet_volume": 198750
+    },
+    {
+        "name": "#FinalFantasyXVI",
+        "tweet_volume": 182310
+    },
+    {
+        "name": "Resident Evil 4",
+        "tweet_volume": 175860
+    },
+    {
+        "name": "#HollowKnightSilksong",
+        "tweet_volume": 162530
+    },
+    {
+        "name": "#StreetFighter6",
+        "tweet_volume": 143210
+    },
+    {
+        "name": "Baldur's Gate 3",
+        "tweet_volume": 134870
+    },
+    {
+        "name": "#TheWitcher3",
+        "tweet_volume": 118640
+    },
+    {
+        "name": "#AttackOnTitanFinale",
+        "tweet_volume": 275640
+    },
+    {
+        "name": "Demon Slayer",
+        "tweet_volume": 215230
+    },
+    {
+        "name": "#JujutsuKaisen",
+        "tweet_volume": 185760
+    },
+    {
+        "name": "My Hero Academia",
+        "tweet_volume": 173840
+    },
+    {
+        "name": "#OnePieceLiveAction",
+        "tweet_volume": 163450
+    }
+]
+
+Prompt Text:
+i am going to give you data from google trends, youtube data api and twitter in json format,
+i want you to consolidate the data and provide like this:
+The result data is for an ecommerce, the concept is to analyze social media trends and find trending products in the platform's catalog which correlate to those trends, 
+in order to do this we need to generate a json with keywords which could be used to find products,
+if the trending event is a football match say "Man City vs LiverPool" then i want the keyword to be "Football" and "Manchester City"... 
+this is for an ecommerce platform so the data must be crisp and relevant to the ecommerce context. the json must  have these objects,
+platform of the api data and the keywords, dont give keywords for each entry, just consolidate them all into a single keywords list, your response must simply be a JSON, i intend to process the response directly to a json file
+the keywords you provide should come under these categories i mention below
+
+Basketball Shoes (SE-1000119)
+Football Apparel (AT-1000013)
+Football Accessories (AK-1000054)
+Jersey (JE-1000026)
+Samsung (BL-1000019)
+iPhone (IP-1000003)
+Wearable Apple (WE-1000008)
+Anime & Manga (AN-1000027)
+PlayStation Game (GA-1000099)
+PlayStation Console (CO-1000085)
+
+The resultant json must be a list of 
+{
+  keyword:"" (keywords to search for products in the category)
+  category:"" (relevant category that is analyzed from the trendy data which matches to above category)
+  categoryCode:"" (the code associated to the category, example KO-1000122)
+}
+Keywords must be the product name that could be trending
+Keyword and category cant be same
+If a TEAM or PLAYER is trending make sure to mention that, dont just mention the sport name or the category alone
+

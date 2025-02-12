@@ -1,0 +1,29 @@
+i am going to give you data from google trends, youtube data api and twitter in json format,
+i want you to consolidate the data and provide like this:
+The result data is for an ecommerce, the concept is to analyze social media trends and find trending products in the platform's catalog which correlate to those trends, 
+in order to do this we need to generate a json with keywords which could be used to find products,
+if the trending event is a football match say "Man City vs LiverPool" then i want the keyword to be "Football" and "Manchester City"... 
+this is for an ecommerce platform so the data must be crisp and relevant to the ecommerce context. the json must  have these objects,
+platform of the api data and the keywords, dont give keywords for each entry, just consolidate them all into a single keywords list, your response must simply be a JSON, i intend to process the response directly to a json file
+the keywords you provide should come under these categories i mention below
+
+Basketball Shoes (SE-1000119)
+Football Apparel (AT-1000013)
+Football Accessories (AK-1000054)
+Jersey (JE-1000026)
+Samsung (BL-1000019)
+iPhone (IP-1000003)
+Wearable Apple (WE-1000008)
+Anime & Manga (AN-1000027)
+PlayStation Game (GA-1000099)
+PlayStation Console (CO-1000085)
+
+The resultant json must be a list of 
+{
+  keyword:"" (keywords to search for products in the category)
+  category:"" (relevant category that is analyzed from the trendy data which matches to above category)
+  categoryCode:"" (the code associated to the category, example KO-1000122)
+}
+Keywords must be the product name that could be trending
+Keyword and category cant be same
+If a TEAM or PLAYER is trending make sure to mention that, dont just mention the sport name or the category alone

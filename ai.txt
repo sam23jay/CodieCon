@@ -1,0 +1,31 @@
+preproceesing
+ai model
+
+
+supervised
+
+unsupervised  --> pattern recogntion
+
+reinforcement --> reward and penalty
+
+Transformer Models --> pretrained, (gpt, dall-e) are neural networks
+classification
+
+neural networks:
+weights
+neurons
+
+for classification and regression - supervised
+
+for Clustering - unsupervised (finds hidden patterns)
+
+for classification- cnn(image), svm ( WE USE CATEGORIES )
+
+for regression- (WE USE CONTINOUS NUMBERS)
+
+for regression- random forest, xgboost ( both form decision trees, use animal example ) 
+
+
+for generation- reinforcement and unsupervised
+
+NLP allows machines to understand and process human language

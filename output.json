@@ -1,0 +1,167 @@
+[
+    {
+        "keyword": "Basketball",
+        "category": "Basketball Shoes",
+        "categoryCode": "SE-1000119"
+    },
+    {
+        "keyword": "NBA Jersey",
+        "category": "Jersey",
+        "categoryCode": "JE-1000026"
+    },
+    {
+        "keyword": "Milwaukee Bucks",
+        "category": "Jersey",
+        "categoryCode": "JE-1000026"
+    },
+    {
+        "keyword": "Stephen Curry",
+        "category": "Jersey",
+        "categoryCode": "JE-1000026"
+    },
+    {
+        "keyword": "Damian Lillard",
+        "category": "Jersey",
+        "categoryCode": "JE-1000026"
+    },
+    {
+        "keyword": "Lebron James",
+        "category": "Jersey",
+        "categoryCode": "JE-1000026"
+    },
+    {
+        "keyword": "Giannis Antetokounmpo",
+        "category": "Jersey",
+        "categoryCode": "JE-1000026"
+    },
+    {
+        "keyword": "Football",
+        "category": "Football Apparel",
+        "categoryCode": "AT-1000013"
+    },
+    {
+        "keyword": "Football",
+        "category": "Football Accessories",
+        "categoryCode": "AK-1000054"
+    },
+    {
+        "keyword": "Liverpool",
+        "category": "Football Apparel",
+        "categoryCode": "AT-1000013"
+    },
+    {
+        "keyword": "Manchester United",
+        "category": "Football Apparel",
+        "categoryCode": "AT-1000013"
+    },
+    {
+        "keyword": "Arsenal",
+        "category": "Football Apparel",
+        "categoryCode": "AT-1000013"
+    },
+    {
+        "keyword": "Real Madrid",
+        "category": "Football Apparel",
+        "categoryCode": "AT-1000013"
+    },
+    {
+        "keyword": "Paris Saint-Germain",
+        "category": "Football Apparel",
+        "categoryCode": "AT-1000013"
+    },
+    {
+        "keyword": "iPhone 16",
+        "category": "iPhone",
+        "categoryCode": "IP-1000003"
+    },
+    {
+        "keyword": "MacBook Pro",
+        "category": "Wearable Apple",
+        "categoryCode": "WE-1000008"
+    },
+    {
+        "keyword": "Mac mini",
+        "category": "Wearable Apple",
+        "categoryCode": "WE-1000008"
+    },
+    {
+        "keyword": "Apple Watch",
+        "category": "Wearable Apple",
+        "categoryCode": "WE-1000008"
+    },
+    {
+        "keyword": "Elden Ring",
+        "category": "PlayStation Game",
+        "categoryCode": "GA-1000099"
+    },
+    {
+        "keyword": "Cyberpunk 2077",
+        "category": "PlayStation Game",
+        "categoryCode": "GA-1000099"
+    },
+    {
+        "keyword": "God of War Ragnarok",
+        "category": "PlayStation Game",
+        "categoryCode": "GA-1000099"
+    },
+    {
+        "keyword": "Final Fantasy XVI",
+        "category": "PlayStation Game",
+        "categoryCode": "GA-1000099"
+    },
+    {
+        "keyword": "Resident Evil 4",
+        "category": "PlayStation Game",
+        "categoryCode": "GA-1000099"
+    },
+    {
+        "keyword": "Hollow Knight Silksong",
+        "category": "PlayStation Game",
+        "categoryCode": "GA-1000099"
+    },
+    {
+        "keyword": "Street Fighter 6",
+        "category": "PlayStation Game",
+        "categoryCode": "GA-1000099"
+    },
+    {
+        "keyword": "Baldur's Gate 3",
+        "category": "PlayStation Game",
+        "categoryCode": "GA-1000099"
+    },
+    {
+        "keyword": "The Witcher 3",
+        "category": "PlayStation Game",
+        "categoryCode": "GA-1000099"
+    },
+    {
+        "keyword": "PlayStation",
+        "category": "PlayStation Console",
+        "categoryCode": "CO-1000085"
+    },
+    {
+        "keyword": "Attack On Titan",
+        "category": "Anime & Manga",
+        "categoryCode": "AN-1000027"
+    },
+    {
+        "keyword": "Demon Slayer",
+        "category": "Anime & Manga",
+        "categoryCode": "AN-1000027"
+    },
+    {
+        "keyword": "Jujutsu Kaisen",
+        "category": "Anime & Manga",
+        "categoryCode": "AN-1000027"
+    },
+    {
+        "keyword": "My Hero Academia",
+        "category": "Anime & Manga",
+        "categoryCode": "AN-1000027"
+    },
+    {
+        "keyword": "One Piece",
+        "category": "Anime & Manga",
+        "categoryCode": "AN-1000027"
+    }
+]
